@@ -14,7 +14,7 @@ var bio ={
 		"linkedin" : "goo.gl/4TPnJS",
 		"facebook": "hmntkmr"
 		},
-	"pictureURL" : "https://scontent-lga3-1.xx.fbcdn.net/t31.0-8/11048630_10203222638121233_23658384074188916_o.jpg",
+	"pictureURL" : "https://www.facebook.com/photo.php?fbid=10203222638121233&l=0246216ec0",
 
 	"welcomeMessage" : "Are you looking for an awesome person who can customize your webiste and do some analysis for your business.",
 	
